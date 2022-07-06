@@ -1,0 +1,15 @@
+@import 'blocks/_libs';
+@import 'blocks/vars';
+@import 'blocks/reset';
+@import 'blocks/global';
+
+h1 {
+    border-bottom: 1px solid;
+}
+
+.img {
+    margin: 50px 0;
+}
+
+
+@import 'blocks/media';
